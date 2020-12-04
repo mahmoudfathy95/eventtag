@@ -1,0 +1,98 @@
+[17-Apr-2020 00:34:59 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `events`...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `events`...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `events`...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `events`...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `events`...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 00:35:01 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `events`...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `events`...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `events`...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `events`...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `events`...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 00:35:03 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `events`...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `events`...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `events`...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `events`...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `events`...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 00:35:04 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `events`...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `events`...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `events`...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `events`...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `events`...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 00:35:07 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `events`...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `events`...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `events`...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `events`...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `events`...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 00:35:19 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `events`...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `events`...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `events`...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `events`...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `events`...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 00:35:36 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `events`...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `events`...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `events`...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `events`...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `events`...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 01:56:39 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `events`...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `events`...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `events`...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `events`...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `events`...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 01:56:50 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `events`...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `events`...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `events`...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `events`...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `events`...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 01:56:56 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `events`...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `events`...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `events`...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `events`...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `events`...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 01:57:15 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `events`...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `events`...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `events`...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `events`...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `events`...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 03:34:51 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `events`...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `events`...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `events`...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `events`...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `events`...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[26-Apr-2020 20:37:57 America/Boise] PHP Parse error:  syntax error, unexpected '',strtotime($item->time_to));?' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home2/eventatg/public_html/views/admin/events/edit.php on line 173
+[26-Apr-2020 20:38:02 America/Boise] PHP Parse error:  syntax error, unexpected '',strtotime($item->time_to));?' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home2/eventatg/public_html/views/admin/events/edit.php on line 173

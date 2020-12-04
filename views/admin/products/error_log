@@ -1,0 +1,92 @@
+[17-Apr-2020 03:42:58 America/Boise] PHP Fatal error:  Uncaught Illuminate\Database\Eloquent\RelationNotFoundException: Call to undefined relationship [category] on model [Product]. in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/RelationNotFoundException.php:20
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(529): Illuminate\Database\Eloquent\RelationNotFoundException::make(Object(Product), 'category')
+#1 [internal function]: Illuminate\Database\Eloquent\Builder->Illuminate\Database\Eloquent\{closure}()
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Relations/Relation.php(89): call_user_func(Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(531): Illuminate\Database\Eloquent\Relations\Relation::noConstraints(Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(499): Illuminate\Database\Eloquent\Builder->getRelation('category')
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/ in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/RelationNotFoundException.php on line 20
+[17-Apr-2020 03:43:09 America/Boise] PHP Fatal error:  Uncaught Illuminate\Database\Eloquent\RelationNotFoundException: Call to undefined relationship [category] on model [Product]. in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/RelationNotFoundException.php:20
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(529): Illuminate\Database\Eloquent\RelationNotFoundException::make(Object(Product), 'category')
+#1 [internal function]: Illuminate\Database\Eloquent\Builder->Illuminate\Database\Eloquent\{closure}()
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Relations/Relation.php(89): call_user_func(Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(531): Illuminate\Database\Eloquent\Relations\Relation::noConstraints(Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(499): Illuminate\Database\Eloquent\Builder->getRelation('category')
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/ in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/RelationNotFoundException.php on line 20
+[17-Apr-2020 03:43:13 America/Boise] PHP Fatal error:  Uncaught Illuminate\Database\Eloquent\RelationNotFoundException: Call to undefined relationship [category] on model [Product]. in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/RelationNotFoundException.php:20
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(529): Illuminate\Database\Eloquent\RelationNotFoundException::make(Object(Product), 'category')
+#1 [internal function]: Illuminate\Database\Eloquent\Builder->Illuminate\Database\Eloquent\{closure}()
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Relations/Relation.php(89): call_user_func(Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(531): Illuminate\Database\Eloquent\Relations\Relation::noConstraints(Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(499): Illuminate\Database\Eloquent\Builder->getRelation('category')
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/ in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/RelationNotFoundException.php on line 20
+[17-Apr-2020 03:43:34 America/Boise] PHP Fatal error:  Uncaught Illuminate\Database\Eloquent\RelationNotFoundException: Call to undefined relationship [category] on model [Product]. in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/RelationNotFoundException.php:20
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(529): Illuminate\Database\Eloquent\RelationNotFoundException::make(Object(Product), 'category')
+#1 [internal function]: Illuminate\Database\Eloquent\Builder->Illuminate\Database\Eloquent\{closure}()
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Relations/Relation.php(89): call_user_func(Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(531): Illuminate\Database\Eloquent\Relations\Relation::noConstraints(Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(499): Illuminate\Database\Eloquent\Builder->getRelation('category')
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/ in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/RelationNotFoundException.php on line 20
+[17-Apr-2020 03:44:09 America/Boise] PHP Fatal error:  Uncaught Illuminate\Database\Eloquent\RelationNotFoundException: Call to undefined relationship [category] on model [Product]. in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/RelationNotFoundException.php:20
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(529): Illuminate\Database\Eloquent\RelationNotFoundException::make(Object(Product), 'category')
+#1 [internal function]: Illuminate\Database\Eloquent\Builder->Illuminate\Database\Eloquent\{closure}()
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Relations/Relation.php(89): call_user_func(Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(531): Illuminate\Database\Eloquent\Relations\Relation::noConstraints(Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(499): Illuminate\Database\Eloquent\Builder->getRelation('category')
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/ in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/RelationNotFoundException.php on line 20
+[17-Apr-2020 03:44:49 America/Boise] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/eventatg/public_html/views/admin/products/index.php on line 11
+[17-Apr-2020 03:45:08 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:45:08 America/Boise] PHP Fatal error:  Uncaught Illuminate\Database\Eloquent\RelationNotFoundException: Call to undefined relationship [category] on model [Product]. in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/RelationNotFoundException.php:20
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(529): Illuminate\Database\Eloquent\RelationNotFoundException::make(Object(Product), 'category')
+#1 [internal function]: Illuminate\Database\Eloquent\Builder->Illuminate\Database\Eloquent\{closure}()
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Relations/Relation.php(89): call_user_func(Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(531): Illuminate\Database\Eloquent\Relations\Relation::noConstraints(Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(499): Illuminate\Database\Eloquent\Builder->getRelation('category')
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/ in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/RelationNotFoundException.php on line 20
+[17-Apr-2020 03:45:55 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:45:56 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:46:00 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:46:41 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:46:56 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:47:13 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:47:58 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:48:21 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:48:24 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:48:38 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:49:06 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'details' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:445
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(445): PDO->prepare('insert into `pr...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pr...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(450): Illuminate\Database\Connection->run('insert into `pr...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `pr...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Que in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 03:49:06 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:50:32 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'details' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:445
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(445): PDO->prepare('insert into `pr...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `pr...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `pr...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(450): Illuminate\Database\Connection->run('insert into `pr...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `pr...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Que in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 03:51:51 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:52:16 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:54:16 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:54:31 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 03:55:01 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Apr-2020 12:34:59 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[18-Apr-2020 10:07:06 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[18-Apr-2020 10:18:24 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[18-Apr-2020 10:21:41 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[20-Apr-2020 16:50:59 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[20-Apr-2020 16:53:49 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[20-Apr-2020 16:54:25 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[20-May-2020 15:46:34 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[27-May-2020 08:21:19 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3
+[17-Jul-2020 22:20:22 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/eventatg/public_html/views/admin/products/index.php:1) in /home2/eventatg/public_html/views/admin/products/index.php on line 3

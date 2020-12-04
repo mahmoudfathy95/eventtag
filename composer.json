@@ -1,0 +1,14 @@
+{
+    "require": {
+        "illuminate/database": "^5.4",
+        "phpmailer/phpmailer": "^6.1",
+        "nexmo/client": "^1.9"
+    },
+    "autoload":{
+    	"classmap":[
+    	  "lib",
+          "models"
+
+    	]
+    }
+}

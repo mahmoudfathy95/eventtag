@@ -1,0 +1,10 @@
+[18-Apr-2020 10:27:03 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home2/eventatg/public_html/lib/model.php:14
+Stack trace:
+#0 /home2/eventatg/public_html/views/admin/data/index.php(13): model->__construct()
+#1 {main}
+  thrown in /home2/eventatg/public_html/lib/model.php on line 14
+[18-Apr-2020 10:27:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home2/eventatg/public_html/lib/model.php:14
+Stack trace:
+#0 /home2/eventatg/public_html/views/admin/data/index.php(13): model->__construct()
+#1 {main}
+  thrown in /home2/eventatg/public_html/lib/model.php on line 14

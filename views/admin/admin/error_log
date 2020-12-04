@@ -1,0 +1,72 @@
+[17-Apr-2020 01:58:06 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Group.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 01:58:06 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Group.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 01:58:06 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Group.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 01:58:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Group' not found in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php:487
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php(106): Illuminate\Database\Eloquent\Model->newRelatedInstance('Group')
+#1 /home2/eventatg/public_html/models/Admin.php(11): Illuminate\Database\Eloquent\Model->belongsTo('Group', 'group_id')
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(527): Admin->group()
+#3 [internal function]: Illuminate\Database\Eloquent\Builder->Illuminate\Database\Eloquent\{closure}()
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Relations/Relation.php(89): call_user_func(Object(Closure))
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(531): Illuminate\Database\Eloquent\Relations\Relation::noConstraints(Object(Closure))
+#6 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(499): Ill in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[17-Apr-2020 01:58:46 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Group.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 01:58:46 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Group.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 01:58:46 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Group.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 01:58:46 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Group' not found in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php:487
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php(106): Illuminate\Database\Eloquent\Model->newRelatedInstance('Group')
+#1 /home2/eventatg/public_html/models/Admin.php(11): Illuminate\Database\Eloquent\Model->belongsTo('Group', 'group_id')
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(527): Admin->group()
+#3 [internal function]: Illuminate\Database\Eloquent\Builder->Illuminate\Database\Eloquent\{closure}()
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Relations/Relation.php(89): call_user_func(Object(Closure))
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(531): Illuminate\Database\Eloquent\Relations\Relation::noConstraints(Object(Closure))
+#6 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(499): Ill in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[17-Apr-2020 12:34:34 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Group.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 12:34:34 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Group.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 12:34:34 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Group.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 12:34:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Group' not found in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php:487
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php(106): Illuminate\Database\Eloquent\Model->newRelatedInstance('Group')
+#1 /home2/eventatg/public_html/models/Admin.php(11): Illuminate\Database\Eloquent\Model->belongsTo('Group', 'group_id')
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(527): Admin->group()
+#3 [internal function]: Illuminate\Database\Eloquent\Builder->Illuminate\Database\Eloquent\{closure}()
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Relations/Relation.php(89): call_user_func(Object(Closure))
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(531): Illuminate\Database\Eloquent\Relations\Relation::noConstraints(Object(Closure))
+#6 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(499): Ill in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[17-Apr-2020 12:34:57 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Group.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 12:34:57 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Group.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 12:34:57 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Group.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 12:34:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Group' not found in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php:487
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php(106): Illuminate\Database\Eloquent\Model->newRelatedInstance('Group')
+#1 /home2/eventatg/public_html/models/Admin.php(11): Illuminate\Database\Eloquent\Model->belongsTo('Group', 'group_id')
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(527): Admin->group()
+#3 [internal function]: Illuminate\Database\Eloquent\Builder->Illuminate\Database\Eloquent\{closure}()
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Relations/Relation.php(89): call_user_func(Object(Closure))
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(531): Illuminate\Database\Eloquent\Relations\Relation::noConstraints(Object(Closure))
+#6 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(499): Ill in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[17-Apr-2020 16:30:41 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Group.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 16:30:41 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Group.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 16:30:41 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Group.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[17-Apr-2020 16:30:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Group' not found in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php:487
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php(106): Illuminate\Database\Eloquent\Model->newRelatedInstance('Group')
+#1 /home2/eventatg/public_html/models/Admin.php(11): Illuminate\Database\Eloquent\Model->belongsTo('Group', 'group_id')
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(527): Admin->group()
+#3 [internal function]: Illuminate\Database\Eloquent\Builder->Illuminate\Database\Eloquent\{closure}()
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Relations/Relation.php(89): call_user_func(Object(Closure))
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(531): Illuminate\Database\Eloquent\Relations\Relation::noConstraints(Object(Closure))
+#6 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(499): Ill in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487
+[18-Apr-2020 08:42:50 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Group.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[18-Apr-2020 08:42:50 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Group.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[18-Apr-2020 08:42:50 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Group.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[18-Apr-2020 08:42:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Group' not found in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php:487
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php(106): Illuminate\Database\Eloquent\Model->newRelatedInstance('Group')
+#1 /home2/eventatg/public_html/models/Admin.php(11): Illuminate\Database\Eloquent\Model->belongsTo('Group', 'group_id')
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(527): Admin->group()
+#3 [internal function]: Illuminate\Database\Eloquent\Builder->Illuminate\Database\Eloquent\{closure}()
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Relations/Relation.php(89): call_user_func(Object(Closure))
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(531): Illuminate\Database\Eloquent\Relations\Relation::noConstraints(Object(Closure))
+#6 /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Builder.php(499): Ill in /home2/eventatg/public_html/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php on line 487

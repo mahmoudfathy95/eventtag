@@ -1,0 +1,548 @@
+[22-Mar-2020 16:15:10 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:15:10 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:15:10 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:15:10 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:15:11 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:15:17 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:15:20 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:15:20 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:15:24 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:15:51 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:16:15 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:20:07 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:38:50 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:38:55 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:39:30 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:40:28 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:40:30 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:40:39 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:41:10 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 16:41:17 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:03:33 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:03:36 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:04:11 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:04:13 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:04:16 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:04:39 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:04:45 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:05:35 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:06:32 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:06:36 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:06:39 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:06:44 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:06:47 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:06:52 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:07:13 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:07:20 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:07:23 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:07:42 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:08:02 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:08:25 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:08:50 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:10:07 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:10:44 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:10:46 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[22-Mar-2020 17:11:47 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[23-Mar-2020 00:43:22 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[23-Mar-2020 00:43:41 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[23-Mar-2020 00:43:47 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[23-Mar-2020 00:43:48 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[23-Mar-2020 00:47:40 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'id12859586_evento'@'localhost' (using password: YES) in /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php:68
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(68): PDO->__construct('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/Connector.php(44): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'id12859586_even...', 'aly3733029', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors\ConnectionFacto in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[23-Mar-2020 08:56:39 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.595574001584975399.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 08:56:39 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWPbatV' to '../uploads/0.595574001584975399.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 08:56:39 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.601277001584975399.png): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 08:56:39 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjYtSl0' to '../uploads/0.601277001584975399.png' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 08:56:39 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.601407001584975399.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 08:56:39 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7rNcEr' to '../uploads/0.601407001584975399.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 08:56:39 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.601623001584975399.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 08:56:39 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpgVXRdT' to '../uploads/0.601623001584975399.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 10:37:15 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.910839001584981435.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 10:37:15 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzgz3Sn' to '../uploads/0.910839001584981435.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 10:37:15 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.915641001584981435.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 10:37:15 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfCs4Wy' to '../uploads/0.915641001584981435.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 10:37:15 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.915752001584981435.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 10:37:15 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwK1h1L' to '../uploads/0.915752001584981435.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:00:40 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.103349001584982840.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:00:40 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNrVkVJ' to '../uploads/0.103349001584982840.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:00:40 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.106597001584982840.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:00:40 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJcSpHM' to '../uploads/0.106597001584982840.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:00:40 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.106766001584982840.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:00:40 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphKYHe0' to '../uploads/0.106766001584982840.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:00:40 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.106854001584982840.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:00:40 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzJtyLj' to '../uploads/0.106854001584982840.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:14:00 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.092063001584983640.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:14:00 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSfZZcD' to '../uploads/0.092063001584983640.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:14:00 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.094824001584983640.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:14:00 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBdw8A6' to '../uploads/0.094824001584983640.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:14:00 America/Boise] PHP Warning:  move_uploaded_file(../uploads/0.094918001584983640.jpg): failed to open stream: No such file or directory in /home2/eventatg/public_html/lib/image.php on line 52
+[23-Mar-2020 11:14:00 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1yWcRC' to '../uploads/0.094918001584983640.jpg' in /home2/eventatg/public_html/lib/image.php on line 52
+[06-Apr-2020 06:34:09 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/eventatg/public_html/controller/Register.php on line 126
+[06-Apr-2020 06:34:44 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/eventatg/public_html/controller/Register.php on line 126
+[06-Apr-2020 06:36:03 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/eventatg/public_html/controller/Register.php on line 126
+[06-Apr-2020 06:42:29 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/eventatg/public_html/controller/Register.php on line 126
+[30-Apr-2020 16:10:35 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:449
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(449): PDOStatement->execute()
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `ev...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `ev...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(450): Illuminate\Database\Connection->run('insert into `ev...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `ev...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Que in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[30-Apr-2020 16:13:05 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:449
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(449): PDOStatement->execute()
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `ev...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `ev...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(450): Illuminate\Database\Connection->run('insert into `ev...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `ev...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Que in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[30-Apr-2020 16:15:50 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:449
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(449): PDOStatement->execute()
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `ev...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `ev...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(450): Illuminate\Database\Connection->run('insert into `ev...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `ev...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Que in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[03-May-2020 09:18:30 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/controller/Register.php:1) in /home2/eventatg/public_html/controller/Register.php on line 3
+[03-May-2020 09:19:04 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/controller/Register.php:1) in /home2/eventatg/public_html/controller/Register.php on line 3
+[03-May-2020 09:20:16 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/controller/Register.php:1) in /home2/eventatg/public_html/controller/Register.php on line 3
+[04-May-2020 20:34:20 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'send' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `users` ...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `users` ...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `users` ...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `users` ...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `users` ...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/databa in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[04-May-2020 20:34:52 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'send' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `users` ...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `users` ...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `users` ...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `users` ...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `users` ...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/databa in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[04-May-2020 20:41:19 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'send' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `users` ...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `users` ...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `users` ...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `users` ...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `users` ...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/databa in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[04-May-2020 20:44:14 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'send' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `users` ...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `users` ...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `users` ...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `users` ...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `users` ...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/databa in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[04-May-2020 20:48:35 America/Boise] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Nexmo\Client::__construct() must be an instance of Nexmo\Client\Credentials\CredentialsInterface, null given, called in /home2/eventatg/public_html/controller/editProfile.php on line 10 and defined in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php:72
+Stack trace:
+#0 /home2/eventatg/public_html/controller/editProfile.php(10): Nexmo\Client->__construct(NULL)
+#1 {main}
+  thrown in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php on line 72
+[04-May-2020 20:53:39 America/Boise] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Nexmo\Client::__construct() must be an instance of Nexmo\Client\Credentials\CredentialsInterface, null given, called in /home2/eventatg/public_html/controller/editProfile.php on line 10 and defined in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php:72
+Stack trace:
+#0 /home2/eventatg/public_html/controller/editProfile.php(10): Nexmo\Client->__construct(NULL)
+#1 {main}
+  thrown in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php on line 72
+[04-May-2020 20:55:21 America/Boise] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Nexmo\Client::__construct() must be an instance of Nexmo\Client\Credentials\CredentialsInterface, null given, called in /home2/eventatg/public_html/controller/editProfile.php on line 10 and defined in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php:72
+Stack trace:
+#0 /home2/eventatg/public_html/controller/editProfile.php(10): Nexmo\Client->__construct(NULL)
+#1 {main}
+  thrown in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php on line 72
+[04-May-2020 20:55:42 America/Boise] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Nexmo\Client::__construct() must be an instance of Nexmo\Client\Credentials\CredentialsInterface, null given, called in /home2/eventatg/public_html/controller/editProfile.php on line 10 and defined in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php:72
+Stack trace:
+#0 /home2/eventatg/public_html/controller/editProfile.php(10): Nexmo\Client->__construct(NULL)
+#1 {main}
+  thrown in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php on line 72
+[04-May-2020 20:55:58 America/Boise] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Nexmo\Client::__construct() must be an instance of Nexmo\Client\Credentials\CredentialsInterface, null given, called in /home2/eventatg/public_html/controller/editProfile.php on line 10 and defined in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php:72
+Stack trace:
+#0 /home2/eventatg/public_html/controller/editProfile.php(10): Nexmo\Client->__construct(NULL)
+#1 {main}
+  thrown in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php on line 72
+[04-May-2020 20:56:12 America/Boise] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Nexmo\Client::__construct() must be an instance of Nexmo\Client\Credentials\CredentialsInterface, null given, called in /home2/eventatg/public_html/controller/editProfile.php on line 10 and defined in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php:72
+Stack trace:
+#0 /home2/eventatg/public_html/controller/editProfile.php(10): Nexmo\Client->__construct(NULL)
+#1 {main}
+  thrown in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php on line 72
+[04-May-2020 20:56:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/controller/editProfile.php:2) in /home2/eventatg/public_html/controller/editProfile.php on line 3
+[04-May-2020 20:56:46 America/Boise] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Nexmo\Client::__construct() must be an instance of Nexmo\Client\Credentials\CredentialsInterface, null given, called in /home2/eventatg/public_html/controller/editProfile.php on line 10 and defined in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php:72
+Stack trace:
+#0 /home2/eventatg/public_html/controller/editProfile.php(10): Nexmo\Client->__construct(NULL)
+#1 {main}
+  thrown in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php on line 72
+[04-May-2020 20:57:09 America/Boise] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Nexmo\Client::__construct() must be an instance of Nexmo\Client\Credentials\CredentialsInterface, null given, called in /home2/eventatg/public_html/controller/editProfile.php on line 10 and defined in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php:72
+Stack trace:
+#0 /home2/eventatg/public_html/controller/editProfile.php(10): Nexmo\Client->__construct(NULL)
+#1 {main}
+  thrown in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php on line 72
+[04-May-2020 20:57:38 America/Boise] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Nexmo\Client::__construct() must be an instance of Nexmo\Client\Credentials\CredentialsInterface, null given, called in /home2/eventatg/public_html/controller/editProfile.php on line 10 and defined in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php:72
+Stack trace:
+#0 /home2/eventatg/public_html/controller/editProfile.php(10): Nexmo\Client->__construct(NULL)
+#1 {main}
+  thrown in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php on line 72
+[04-May-2020 20:57:43 America/Boise] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Nexmo\Client::__construct() must be an instance of Nexmo\Client\Credentials\CredentialsInterface, null given, called in /home2/eventatg/public_html/controller/editProfile.php on line 10 and defined in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php:72
+Stack trace:
+#0 /home2/eventatg/public_html/controller/editProfile.php(10): Nexmo\Client->__construct(NULL)
+#1 {main}
+  thrown in /home2/eventatg/public_html/vendor/nexmo/client-core/src/Client.php on line 72
+[04-May-2020 20:58:59 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'send' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `users` ...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `users` ...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `users` ...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `users` ...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `users` ...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/databa in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[04-May-2020 20:59:03 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'send' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `users` ...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `users` ...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `users` ...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `users` ...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `users` ...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/databa in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[04-May-2020 20:59:34 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'send' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `users` ...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `users` ...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `users` ...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `users` ...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `users` ...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/databa in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[04-May-2020 20:59:53 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'send' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `users` ...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `users` ...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `users` ...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `users` ...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `users` ...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/databa in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[04-May-2020 21:00:47 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'send' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `users` ...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `users` ...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `users` ...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `users` ...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `users` ...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/databa in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[04-May-2020 21:01:26 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'send' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `users` ...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `users` ...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `users` ...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `users` ...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `users` ...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/databa in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[04-May-2020 21:01:47 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'send' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:470
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(470): PDO->prepare('update `users` ...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('update `users` ...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('update `users` ...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(477): Illuminate\Database\Connection->run('update `users` ...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(416): Illuminate\Database\Connection->affectingStatement('update `users` ...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/databa in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647

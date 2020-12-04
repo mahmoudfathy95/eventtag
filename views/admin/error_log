@@ -1,0 +1,320 @@
+[16-Apr-2020 18:29:14 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:29:14 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:29:14 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:29:14 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/header.php:19
+Stack trace:
+#0 /home2/eventatg/public_html/views/admin/index.php(3): require_once()
+#1 {main}
+  thrown in /home2/eventatg/public_html/views/admin/header.php on line 19
+[16-Apr-2020 18:29:28 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:29:28 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:29:29 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:29:29 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:29:29 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:29:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/header.php:19
+Stack trace:
+#0 /home2/eventatg/public_html/views/admin/index.php(3): require_once()
+#1 {main}
+  thrown in /home2/eventatg/public_html/views/admin/header.php on line 19
+[16-Apr-2020 18:29:37 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:29:37 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:29:37 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:29:37 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:29:37 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:29:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/header.php:19
+Stack trace:
+#0 /home2/eventatg/public_html/views/admin/index.php(3): require_once()
+#1 {main}
+  thrown in /home2/eventatg/public_html/views/admin/header.php on line 19
+[16-Apr-2020 18:32:09 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:32:09 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:32:10 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:32:10 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:32:10 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:32:10 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/header.php:19
+Stack trace:
+#0 /home2/eventatg/public_html/views/admin/index.php(3): require_once()
+#1 {main}
+  thrown in /home2/eventatg/public_html/views/admin/header.php on line 19
+[16-Apr-2020 18:32:18 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:32:18 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:32:19 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:32:19 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:32:19 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:32:19 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/header.php:19
+Stack trace:
+#0 /home2/eventatg/public_html/views/admin/index.php(3): require_once()
+#1 {main}
+  thrown in /home2/eventatg/public_html/views/admin/header.php on line 19
+[16-Apr-2020 18:32:43 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:32:43 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:32:44 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:32:44 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:32:44 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:32:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/header.php:19
+Stack trace:
+#0 /home2/eventatg/public_html/views/admin/index.php(3): require_once()
+#1 {main}
+  thrown in /home2/eventatg/public_html/views/admin/header.php on line 19
+[16-Apr-2020 18:33:01 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:33:01 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:33:02 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:33:02 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:33:02 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:33:02 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/header.php:19
+Stack trace:
+#0 /home2/eventatg/public_html/views/admin/index.php(3): require_once()
+#1 {main}
+  thrown in /home2/eventatg/public_html/views/admin/header.php on line 19
+[16-Apr-2020 18:33:57 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:33:57 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:34:10 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:34:10 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:34:16 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:34:16 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:34:21 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:34:21 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:35:24 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:35:24 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:35:46 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:35:46 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:36:04 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:36:04 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:36:44 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:36:44 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:36:59 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:36:59 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 8
+[16-Apr-2020 18:37:16 America/Boise] PHP Warning:  require_once(/home2/eventatg/public_html/views/../lib/Dashboard.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/views/admin/set.php on line 9
+[16-Apr-2020 18:37:16 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home2/eventatg/public_html/views/../lib/Dashboard.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/views/admin/set.php on line 9
+[16-Apr-2020 18:38:09 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:38:09 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:38:09 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:38:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/set.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/eventatg/public_html/views/admin/set.php on line 34
+[16-Apr-2020 18:38:26 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:38:26 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:38:26 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:38:26 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/set.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/eventatg/public_html/views/admin/set.php on line 34
+[16-Apr-2020 18:38:39 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:38:39 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:38:39 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:38:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/set.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/eventatg/public_html/views/admin/set.php on line 34
+[16-Apr-2020 18:40:08 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:40:08 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:40:08 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:40:08 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/set.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/eventatg/public_html/views/admin/set.php on line 34
+[16-Apr-2020 18:40:22 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:40:22 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:40:22 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:40:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/set.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/eventatg/public_html/views/admin/set.php on line 34
+[16-Apr-2020 18:41:33 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:41:33 America/Boise] PHP Warning:  include(/home2/eventatg/public_html/vendor/composer/../../models/Admin.php): failed to open stream: No such file or directory in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:41:33 America/Boise] PHP Warning:  include(): Failed opening '/home2/eventatg/public_html/vendor/composer/../../models/Admin.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/eventatg/public_html/vendor/composer/ClassLoader.php on line 444
+[16-Apr-2020 18:41:33 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Admin' not found in /home2/eventatg/public_html/views/admin/set.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/eventatg/public_html/views/admin/set.php on line 34
+[16-Apr-2020 18:43:44 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[16-Apr-2020 18:44:28 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[16-Apr-2020 18:50:14 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[16-Apr-2020 18:52:50 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[16-Apr-2020 18:53:42 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[16-Apr-2020 18:53:54 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[16-Apr-2020 23:50:47 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[16-Apr-2020 23:51:26 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[16-Apr-2020 23:59:46 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[16-Apr-2020 23:59:59 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 00:00:18 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 00:00:31 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 00:02:30 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 00:19:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 44
+[17-Apr-2020 00:19:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 45
+[17-Apr-2020 00:20:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 44
+[17-Apr-2020 00:20:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 45
+[17-Apr-2020 00:21:30 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 44
+[17-Apr-2020 00:21:30 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 45
+[17-Apr-2020 00:23:05 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 44
+[17-Apr-2020 00:23:05 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 45
+[17-Apr-2020 00:23:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 44
+[17-Apr-2020 00:23:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 45
+[17-Apr-2020 00:24:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 44
+[17-Apr-2020 00:24:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 45
+[17-Apr-2020 00:24:41 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 44
+[17-Apr-2020 00:24:41 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 45
+[17-Apr-2020 00:27:52 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 00:31:10 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[17-Apr-2020 00:31:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[17-Apr-2020 00:31:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[17-Apr-2020 00:33:15 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[17-Apr-2020 00:33:15 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:319
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(319): PDO->prepare('select * from `...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(326): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Query/Builder.php(1705): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#5 /home2/eventatg/public_html/vendor/illuminate/data in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 01:39:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[17-Apr-2020 03:34:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[17-Apr-2020 10:15:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[17-Apr-2020 12:33:56 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[17-Apr-2020 16:29:13 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[18-Apr-2020 08:41:47 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[18-Apr-2020 08:58:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method image::check() in /home2/eventatg/public_html/lib/image.php:52
+Stack trace:
+#0 /home2/eventatg/public_html/views/admin/set.php(83): image->storage()
+#1 {main}
+  thrown in /home2/eventatg/public_html/lib/image.php on line 52
+[20-Apr-2020 15:40:38 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[20-Apr-2020 16:50:20 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[24-Apr-2020 09:21:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[26-Apr-2020 15:26:57 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[26-Apr-2020 15:26:57 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[26-Apr-2020 19:44:08 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[26-Apr-2020 20:04:43 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[26-Apr-2020 20:09:20 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[26-Apr-2020 20:15:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[26-Apr-2020 21:21:40 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[27-Apr-2020 06:16:52 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[27-Apr-2020 06:16:52 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[27-Apr-2020 06:25:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[27-Apr-2020 06:25:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[27-Apr-2020 08:26:17 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[27-Apr-2020 08:43:47 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[30-Apr-2020 00:27:27 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[30-Apr-2020 00:28:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[30-Apr-2020 00:29:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[30-Apr-2020 01:37:09 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[30-Apr-2020 01:43:18 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[30-Apr-2020 01:49:26 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[30-Apr-2020 14:51:26 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[30-Apr-2020 15:20:40 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[30-Apr-2020 16:39:41 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[03-May-2020 05:15:31 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[03-May-2020 09:37:40 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[04-May-2020 20:00:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[04-May-2020 20:00:20 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[04-May-2020 20:00:20 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[05-May-2020 03:36:08 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[19-May-2020 07:05:34 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[19-May-2020 07:05:37 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[20-May-2020 15:45:40 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[20-May-2020 16:07:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[22-May-2020 19:15:37 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[23-May-2020 22:36:31 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[27-May-2020 08:19:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[02-Jun-2020 09:13:55 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[23-Jun-2020 07:08:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39
+[17-Jul-2020 22:19:53 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/eventatg/public_html/views/admin/set.php:2) in /home2/eventatg/public_html/views/admin/set.php on line 39

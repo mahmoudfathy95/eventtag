@@ -1,0 +1,20 @@
+[17-Apr-2020 03:35:27 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'img' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:445
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(445): PDO->prepare('insert into `ca...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `ca...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `ca...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(450): Illuminate\Database\Connection->run('insert into `ca...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `ca...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Query/P in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[17-Apr-2020 03:36:45 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'img' in 'field list' in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php:445
+Stack trace:
+#0 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(445): PDO->prepare('insert into `ca...')
+#1 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(640): Illuminate\Database\Connection->Illuminate\Database\{closure}('insert into `ca...', Array)
+#2 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(607): Illuminate\Database\Connection->runQueryCallback('insert into `ca...', Array, Object(Closure))
+#3 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(450): Illuminate\Database\Connection->run('insert into `ca...', Array, Object(Closure))
+#4 /home2/eventatg/public_html/vendor/illuminate/database/Connection.php(404): Illuminate\Database\Connection->statement('insert into `ca...', Array)
+#5 /home2/eventatg/public_html/vendor/illuminate/database/Query/P in /home2/eventatg/public_html/vendor/illuminate/database/Connection.php on line 647
+[23-Jun-2020 07:10:11 America/Boise] PHP Warning:  move_uploaded_file(https://eventatglobal.com/uploads/0.928055001592917811.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/eventatg/public_html/lib/image.php on line 55
+[23-Jun-2020 07:10:11 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1KXgKg' to 'https://eventatglobal.com/uploads/0.928055001592917811.jpg' in /home2/eventatg/public_html/lib/image.php on line 55
+[23-Jun-2020 07:11:43 America/Boise] PHP Warning:  move_uploaded_file(https://eventatglobal.com/uploads/0.691735001592917903.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/eventatg/public_html/lib/image.php on line 55
+[23-Jun-2020 07:11:43 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBFIDab' to 'https://eventatglobal.com/uploads/0.691735001592917903.jpg' in /home2/eventatg/public_html/lib/image.php on line 55
